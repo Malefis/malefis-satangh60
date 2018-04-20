@@ -4,7 +4,7 @@
 
 LIMIT=10
 THREADS="-j 16"
-KMAP=malefis_iso_satan
+KMAP=KEYMAP
 
 echo "We need sudo later"
 sudo ls 2>&1 /dev/null
